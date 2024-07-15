@@ -65,6 +65,8 @@ padding-right: 60px;
 color: blueviolet;
 background-color: yellow;
 font-size: 25px;
+  padding:10px;
+  border-radius:10px
 }
 .u{
 text-decoration: none;
@@ -79,8 +81,12 @@ padding-right: 60px;
 color: blueviolet;
 background-color: yellow;
 font-size: 25px;
+    padding:10px;
+  border-radius:10px
 }
 .o{
+    padding:10px;
+  border-radius:10px
 text-decoration: none;
 padding-right: 60px; 
 color: yellow;
